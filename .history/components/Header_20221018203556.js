@@ -4,8 +4,8 @@ import {
   MagnifyingGlassIcon,
   Bars3Icon,
   UserCircleIcon,
-} from "@heroicons/react/24/outline";
-import { GlobeAltIcon } from "@heroicons/react/24/solid";
+} from "@heroicons/react/24/solid";
+import { GlobeAltIcon } from "@heroicons/react/24/Outline";
 
 function Header() {
   return (

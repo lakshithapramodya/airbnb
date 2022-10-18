@@ -2,10 +2,10 @@ import React from "react";
 import Image from "next/image";
 import {
   MagnifyingGlassIcon,
-  Bars3Icon,
+  MenuIcon,
   UserCircleIcon,
-} from "@heroicons/react/24/outline";
-import { GlobeAltIcon } from "@heroicons/react/24/solid";
+} from "@heroicons/react/solid";
+import { GlobeAltIcon } from "@heroicons/react/Outline";
 
 function Header() {
   return (
@@ -55,7 +55,7 @@ function Header() {
           className="flex items-center border rounded-full p-1 
         space-x-2 shadow-sm px-2 hover:shadow-md"
         >
-          <Bars3Icon className="h-5 text-gray-500" />
+          <MenuIcon className="h-5 text-gray-500" />
           <UserCircleIcon className="h-8 text-gray-400" />
         </div>
       </div>

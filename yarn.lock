@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@heroicons/react@^1.0.6":
-  "integrity" "sha512-JJCXydOFWMDpCP4q13iEplA503MQO3xLoZiKum+955ZCtHINWnx26CUxVxxFQu/uLb4LW3ge15ZpzIkXKkJ8oQ=="
-  "resolved" "https://registry.npmjs.org/@heroicons/react/-/react-1.0.6.tgz"
-  "version" "1.0.6"
+"@heroicons/react@^2.0.12":
+  "integrity" "sha512-FZxKh3i9aKIDxyALTgIpSF2t6V6/eZfF5mRu41QlwkX3Oxzecdm1u6dpft6PQGxIBwO7TKYWaMAYYL8mp/EaOg=="
+  "resolved" "https://registry.npmjs.org/@heroicons/react/-/react-2.0.12.tgz"
+  "version" "2.0.12"
 
 "@next/env@12.3.1":
   "integrity" "sha512-9P9THmRFVKGKt9DYqeC2aKIxm8rlvkK38V1P1sRE7qyoPBIs8l9oo79QoSdPtOWfzkbDAVUqvbQGgTMsb8BtJg=="
